@@ -33,7 +33,7 @@
     "@sentry/tracing": "7.30.0",
     "@types/sequelize": "4.28.14",
     "axios": "1.2.2",
-    "ioredis": "5.2.4",
+    "ioredis": "5.2.5",
     "mariadb": "3.0.2",
     "mysql2": "2.3.3",
     "nest-raven": "9.1.0",
