@@ -815,10 +815,10 @@
   resolved "https://registry.yarnpkg.com/@microsoft/tsdoc/-/tsdoc-0.14.2.tgz#c3ec604a0b54b9a9b87e9735dfc59e1a5da6a5fb"
   integrity sha512-9b8mPpKrfeGRuhFH5iO1iwCLeIIsV6+H1sRfxbkoGXIyQE2BTsPd9zqSqQJ+pv5sJ/hT5M1zvOFL02MnEezFug==
 
-"@nestjs-modules/ioredis@1.2.4":
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/@nestjs-modules/ioredis/-/ioredis-1.2.4.tgz#45de384168abd2ba0224d34876c327d61d3d99ba"
-  integrity sha512-E7rG6Pkzd+V4lV/eY9GY9Jjt4RXYT3Jii5kpoXtEf7cgGfvY9hLpLgIGvItFPhFoUStWk3TunDWv9V0R0iuZmw==
+"@nestjs-modules/ioredis@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@nestjs-modules/ioredis/-/ioredis-2.0.2.tgz#b1799944c4932e26d24a930caad83cc7af34601d"
+  integrity sha512-8pzSvT8R3XP6p8ZzQmEN8OnY0yWrJ/elFhwQK+PID2zf1SLBkAZ18bDcx3SKQ2atledt0gd9kBeP5xT4MlyS7Q==
   optionalDependencies:
     "@nestjs/terminus" "10.2.0"
 
